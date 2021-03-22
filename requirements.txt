@@ -3,6 +3,7 @@ TgCrypto
 git+https://github.com/pytgcalls/pytgcalls
 python-dotenv
 youtube_dl
+youtube_dl -u
 youtube_search_python
 OpenCC
 Pillow
